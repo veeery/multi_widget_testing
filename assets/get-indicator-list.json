@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "EMA",
+    "band": 0,
+    "period": 0
+  },
+  {
+    "id": 2,
+    "name": "MACD",
+    "band": 0,
+    "period": 0
+  },
+  {
+    "id": 3,
+    "name": "Bollinger Band",
+    "band": 0,
+    "period": 0
+  },
+  {
+    "id": 4,
+    "name": "Stochastic RSI",
+    "band": 0,
+    "period": 0
+  },
+  {
+    "id": 5,
+    "name": "testing",
+    "band": 0,
+    "period": 0
+  }
+]
